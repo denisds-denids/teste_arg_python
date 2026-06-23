@@ -6,3 +6,4 @@ print("Argument List:", str(sys.argv))
 
 print("Command: ", str(sys.argv[1]))
 
+print("Teste")
